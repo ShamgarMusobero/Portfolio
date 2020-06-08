@@ -38,3 +38,11 @@
    .site-section .container .row col-md-6 mb-4{
      margin-top: -10px;
    }
+   .navbar .collapse .navbar-nav .nav-item .nav-link{
+     color: blue;
+   }
+   .navbar .collapse .navbar-nav #active .nav-link{
+     color: black;
+ 
+  }
+ 
